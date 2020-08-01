@@ -46,42 +46,42 @@ Find me online:
 
 **Languages**
 
-<img height="36" width="36" style="background-color:#222;border-radius:4px;" src="./assets/icons/javascript.svg">
+<div><img height="36" width="36" style="background-color:#222;border-radius:4px;" src="./assets/icons/javascript.svg">
 <img height="36" width="36" style="background-color:#fff;border-radius:4px;" src="./assets/icons/typescript.svg">
 <img height="36" width="36" style="background-color:#fff;border-radius:4px;" src="./assets/icons/css.svg">
 <img height="36" width="36" style="background-color:#fff;border-radius:4px;" src="./assets/icons/python.svg">
 <img height="36" width="36" style="background-color:#fff;border-radius:4px;" src="./assets/icons/cpp.svg">
-<img height="36" width="36" style="background-color:#fff;border-radius:4px;" src="./assets/icons/haskell.svg">
+<img height="36" width="36" style="background-color:#fff;border-radius:4px;" src="./assets/icons/haskell.svg"></div>
 
 
 **Frameworks, tools, other snappy stuff**
 
-<img height="36" width="36" style="background-color:#fff;border-radius:4px;" src="./assets/icons/angular.svg">
+<div><img height="36" width="36" style="background-color:#fff;border-radius:4px;" src="./assets/icons/angular.svg">
 <img height="36" width="36" style="background-color:#fff;border-radius:4px;" src="./assets/icons/react.svg">
 <img height="36" width="36" style="background-color:#fff;border-radius:4px;" src="./assets/icons/nodejs.svg">
-<img height="36" width="36" style="background-color:#fff;border-radius:4px;" src="./assets/icons/docker.svg">
+<img height="36" width="36" style="background-color:#fff;border-radius:4px;" src="./assets/icons/docker.svg"></div>
 
 <br/>
 
-<img height="36" width="36" style="background-color:#fff;border-radius:4px;" src="./assets/icons/git.svg">
+<div><img height="36" width="36" style="background-color:#fff;border-radius:4px;" src="./assets/icons/git.svg">
 <img height="36" width="36" style="background-color:#fff;border-radius:4px;" src="./assets/icons/github.svg">
-<img height="36" width="36" style="background-color:#fff;border-radius:4px;" src="./assets/icons/gitlab.svg">
+<img height="36" width="36" style="background-color:#fff;border-radius:4px;" src="./assets/icons/gitlab.svg"></div>
 
 <br/>
 
-<img height="36" width="36" style="background-color:#fff;border-radius:4px;" src="./assets/icons/linux-brands.svg">
+<div><img height="36" width="36" style="background-color:#fff;border-radius:4px;" src="./assets/icons/linux-brands.svg">
 <img height="36" width="36" style="background-color:#fff;border-radius:4px;" src="./assets/icons/vscode.svg">
 <img height="36" width="36" style="background-color:#222;border-radius:4px;" src="./assets/icons/prettier.svg">
 <img height="36" width="36" style="background-color:#fff;border-radius:4px;" src="./assets/icons/eslint.svg">
 <img height="36" width="36" style="background-color:#fff;border-radius:4px;" src="./assets/icons/jupyter.svg">
-<img height="36" width="36" style="background-color:#fff;border-radius:4px;" src="./assets/icons/heroku.svg">
+<img height="36" width="36" style="background-color:#fff;border-radius:4px;" src="./assets/icons/heroku.svg"></div>
 
 <br/>
 
-<img height="36" width="36" style="background-color:#fff;border-radius:4px;" src="./assets/icons/http.svg">
+<div><img height="36" width="36" style="background-color:#fff;border-radius:4px;" src="./assets/icons/http.svg">
 <img height="36" width="36" style="background-color:#fff;border-radius:4px;" src="./assets/icons/markdown.svg">
 <img height="36" width="36" style="background-color:#fff;border-radius:4px;" src="./assets/icons/json.svg">
-<img height="36" width="36" style="background-color:#fff;border-radius:4px;" src="./assets/icons/svg.svg">
+<img height="36" width="36" style="background-color:#fff;border-radius:4px;" src="./assets/icons/svg.svg"></div>
 
 
 ## Some stats 📊
