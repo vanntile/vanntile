@@ -35,53 +35,53 @@ const vanntile = {
 
 Find me online:
 
-<a href="https://github.com/vanntile"><img height="36" width="64" style="background-color:#fff;border-radius:4px;" src="./assets/icons/github.svg"></a>
-<a href="https://gitlab.com/vanntile"><img height="36" width="64" style="background-color:#fff;border-radius:4px;" src="./assets/icons/gitlab.svg"></a>
-<a href="https://stackoverflow.com/users/4679160/vanntile-ianito"><img height="36" width="64" style="background-color:#fff;border-radius:4px;" src="./assets/icons/icons8-stack-overflow.svg"></a>
-<a href="https://www.linkedin.com/in/valentin-ionita/"><img height="36" width="64" style="background-color:#fff;border-radius:4px;" src="./assets/icons/icons8-linkedin.svg"></a>
-<a href="https://dribbble.com/vanntile"><img height="36" width="64" style="background-color:#fff;border-radius:4px;" src="./assets/icons/dribbble-ball.svg"></a>
+<a href="https://github.com/vanntile"><img height="36" width="64" style="background-color:#fff;border-radius:4px;" src="https://github.com/vanntile/vanntile/blob/master/assets/icons/github.svg"></a>
+<a href="https://gitlab.com/vanntile"><img height="36" width="64" style="background-color:#fff;border-radius:4px;" src="https://github.com/vanntile/vanntile/blob/master/assets/icons/gitlab.svg"></a>
+<a href="https://stackoverflow.com/users/4679160/vanntile-ianito"><img height="36" width="64" style="background-color:#fff;border-radius:4px;" src="https://github.com/vanntile/vanntile/blob/master/assets/icons/icons8-stack-overflow.svg"></a>
+<a href="https://www.linkedin.com/in/valentin-ionita/"><img height="36" width="64" style="background-color:#fff;border-radius:4px;" src="https://github.com/vanntile/vanntile/blob/master/assets/icons/icons8-linkedin.svg"></a>
+<a href="https://dribbble.com/vanntile"><img height="36" width="64" style="background-color:#fff;border-radius:4px;" src="https://github.com/vanntile/vanntile/blob/master/assets/icons/dribbble-ball.svg"></a>
 
 
 ## Coding-related images 💾
 
 **Languages**
 
-<div><img height="36" width="36" style="background-color:#222;border-radius:4px;" src="./assets/icons/javascript.svg">
-<img height="36" width="36" style="background-color:#fff;border-radius:4px;" src="./assets/icons/typescript.svg">
-<img height="36" width="36" style="background-color:#fff;border-radius:4px;" src="./assets/icons/css.svg">
-<img height="36" width="36" style="background-color:#fff;border-radius:4px;" src="./assets/icons/python.svg">
-<img height="36" width="36" style="background-color:#fff;border-radius:4px;" src="./assets/icons/cpp.svg">
-<img height="36" width="36" style="background-color:#fff;border-radius:4px;" src="./assets/icons/haskell.svg"></div>
+<div><img height="36" width="36" style="background-color:#222;border-radius:4px;" src="https://github.com/vanntile/vanntile/blob/master/assets/icons/javascript.svg">
+<img height="36" width="36" style="background-color:#fff;border-radius:4px;" src="https://github.com/vanntile/vanntile/blob/master/assets/icons/typescript.svg">
+<img height="36" width="36" style="background-color:#fff;border-radius:4px;" src="https://github.com/vanntile/vanntile/blob/master/assets/icons/css.svg">
+<img height="36" width="36" style="background-color:#fff;border-radius:4px;" src="https://github.com/vanntile/vanntile/blob/master/assets/icons/python.svg">
+<img height="36" width="36" style="background-color:#fff;border-radius:4px;" src="https://github.com/vanntile/vanntile/blob/master/assets/icons/cpp.svg">
+<img height="36" width="36" style="background-color:#fff;border-radius:4px;" src="https://github.com/vanntile/vanntile/blob/master/assets/icons/haskell.svg"></div>
 
 
 **Frameworks, tools, other snappy stuff**
 
-<div><img height="36" width="36" style="background-color:#fff;border-radius:4px;" src="./assets/icons/angular.svg">
-<img height="36" width="36" style="background-color:#fff;border-radius:4px;" src="./assets/icons/react.svg">
-<img height="36" width="36" style="background-color:#fff;border-radius:4px;" src="./assets/icons/nodejs.svg">
-<img height="36" width="36" style="background-color:#fff;border-radius:4px;" src="./assets/icons/docker.svg"></div>
+<div><img height="36" width="36" style="background-color:#fff;border-radius:4px;" src="https://github.com/vanntile/vanntile/blob/master/assets/icons/angular.svg">
+<img height="36" width="36" style="background-color:#fff;border-radius:4px;" src="https://github.com/vanntile/vanntile/blob/master/assets/icons/react.svg">
+<img height="36" width="36" style="background-color:#fff;border-radius:4px;" src="https://github.com/vanntile/vanntile/blob/master/assets/icons/nodejs.svg">
+<img height="36" width="36" style="background-color:#fff;border-radius:4px;" src="https://github.com/vanntile/vanntile/blob/master/assets/icons/docker.svg"></div>
 
 <br/>
 
-<div><img height="36" width="36" style="background-color:#fff;border-radius:4px;" src="./assets/icons/git.svg">
-<img height="36" width="36" style="background-color:#fff;border-radius:4px;" src="./assets/icons/github.svg">
-<img height="36" width="36" style="background-color:#fff;border-radius:4px;" src="./assets/icons/gitlab.svg"></div>
+<div><img height="36" width="36" style="background-color:#fff;border-radius:4px;" src="https://github.com/vanntile/vanntile/blob/master/assets/icons/git.svg">
+<img height="36" width="36" style="background-color:#fff;border-radius:4px;" src="https://github.com/vanntile/vanntile/blob/master/assets/icons/github.svg">
+<img height="36" width="36" style="background-color:#fff;border-radius:4px;" src="https://github.com/vanntile/vanntile/blob/master/assets/icons/gitlab.svg"></div>
 
 <br/>
 
-<div><img height="36" width="36" style="background-color:#fff;border-radius:4px;" src="./assets/icons/linux-brands.svg">
-<img height="36" width="36" style="background-color:#fff;border-radius:4px;" src="./assets/icons/vscode.svg">
-<img height="36" width="36" style="background-color:#222;border-radius:4px;" src="./assets/icons/prettier.svg">
-<img height="36" width="36" style="background-color:#fff;border-radius:4px;" src="./assets/icons/eslint.svg">
-<img height="36" width="36" style="background-color:#fff;border-radius:4px;" src="./assets/icons/jupyter.svg">
-<img height="36" width="36" style="background-color:#fff;border-radius:4px;" src="./assets/icons/heroku.svg"></div>
+<div><img height="36" width="36" style="background-color:#fff;border-radius:4px;" src="https://github.com/vanntile/vanntile/blob/master/assets/icons/linux-brands.svg">
+<img height="36" width="36" style="background-color:#fff;border-radius:4px;" src="https://github.com/vanntile/vanntile/blob/master/assets/icons/vscode.svg">
+<img height="36" width="36" style="background-color:#222;border-radius:4px;" src="https://github.com/vanntile/vanntile/blob/master/assets/icons/prettier.svg">
+<img height="36" width="36" style="background-color:#fff;border-radius:4px;" src="https://github.com/vanntile/vanntile/blob/master/assets/icons/eslint.svg">
+<img height="36" width="36" style="background-color:#fff;border-radius:4px;" src="https://github.com/vanntile/vanntile/blob/master/assets/icons/jupyter.svg">
+<img height="36" width="36" style="background-color:#fff;border-radius:4px;" src="https://github.com/vanntile/vanntile/blob/master/assets/icons/heroku.svg"></div>
 
 <br/>
 
-<div><img height="36" width="36" style="background-color:#fff;border-radius:4px;" src="./assets/icons/http.svg">
-<img height="36" width="36" style="background-color:#fff;border-radius:4px;" src="./assets/icons/markdown.svg">
-<img height="36" width="36" style="background-color:#fff;border-radius:4px;" src="./assets/icons/json.svg">
-<img height="36" width="36" style="background-color:#fff;border-radius:4px;" src="./assets/icons/svg.svg"></div>
+<div><img height="36" width="36" style="background-color:#fff;border-radius:4px;" src="https://github.com/vanntile/vanntile/blob/master/assets/icons/http.svg">
+<img height="36" width="36" style="background-color:#fff;border-radius:4px;" src="https://github.com/vanntile/vanntile/blob/master/assets/icons/markdown.svg">
+<img height="36" width="36" style="background-color:#fff;border-radius:4px;" src="https://github.com/vanntile/vanntile/blob/master/assets/icons/json.svg">
+<img height="36" width="36" style="background-color:#fff;border-radius:4px;" src="https://github.com/vanntile/vanntile/blob/master/assets/icons/svg.svg"></div>
 
 
 ## Some stats 📊
@@ -91,4 +91,4 @@ Find me online:
 
 ## to-think-about 📜
 
-![](./assets/code.png)
+![](https://github.com/vanntile/vanntile/blob/master/assets/code.png)
