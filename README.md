@@ -85,4 +85,4 @@ Find me online:
 
 ## to-think-about 📜
 
-![](https://github.com/vanntile/vanntile/blob/master/assets/code.png)
+![](https://github.com/vanntile/vanntile/blob/master/assets/carbon.png)
