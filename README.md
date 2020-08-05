@@ -42,7 +42,7 @@ Find me online:
 <a href="https://dribbble.com/vanntile"><img height="36" width="64" style="background-color:#fff;border-radius:4px;" src="https://github.com/vanntile/vanntile/blob/master/assets/icons/dribbble-ball.svg"></a>
 
 
-## Coding-related images 💾
+## Speaking code in images 💾
 
 **Languages**
 
