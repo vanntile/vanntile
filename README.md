@@ -77,12 +77,3 @@ Find me online:
 <img height="36" width="36" src="https://github.com/vanntile/vanntile/blob/master/assets/icons/json.svg">
 <img height="36" width="36" src="https://github.com/vanntile/vanntile/blob/master/assets/icons/svg.svg"></div>
 
-
-## Basic Stats 📊
-*GitHub stats is provided through [anuraghazra](https://github.com/anuraghazra/)'s [GitHub README stats](https://github.com/anuraghazra/github-readme-stats/)*
-
-[![vanntile's github stats](https://github-readme-stats.vercel.app/api?username=vanntile&count_private=true&show_icons=true&theme=prussian)](https://github.com/vanntile/github-readme-stats) [![vanntile's stakcoverflow stats](https://stackoverflow.com/users/flair/4679160.png?theme=dark)](https://stackoverflow.com/users/4679160/vanntile-ianito)
-
-## to-think-about 📜
-
-![](https://github.com/vanntile/vanntile/blob/master/assets/carbon.png)
