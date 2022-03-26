@@ -18,6 +18,7 @@ const vanntile = {
         frontend: ["NextJS 🇳", "React ⚛️", "Astro 🚀", "Angular 🛡️", "Vue 🇻"],
         styling: "Tailwind CSS 🍃",
         backend: ["FastAPI ⚡", "express", "Django", "Flask ⚗️"],
+        testing: ["Cypress", "Jest", "JUnit"],
         other: ["GTK+ (gtkmm)"]
     },
     tooling: {
