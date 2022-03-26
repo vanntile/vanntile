@@ -36,10 +36,11 @@ const vanntile = {
 }
 ```
 
-## Links 🔗💬
+## Links 🔗
 
 Find me online:
 
+<a href="https://vanntile.com"><img height="36" width="64" src="https://github.com/vanntile/vanntile/blob/master/assets/icons/http.svg"></a>
 <a href="https://github.com/vanntile"><img height="36" width="64" src="https://github.com/vanntile/vanntile/blob/master/assets/icons/github.svg"></a>
 <a href="https://gitlab.com/vanntile"><img height="36" width="64" src="https://github.com/vanntile/vanntile/blob/master/assets/icons/gitlab.svg"></a>
 <a href="https://stackoverflow.com/users/4679160/vanntile-ianito"><img height="36" width="64" src="https://github.com/vanntile/vanntile/blob/master/assets/icons/icons8-stack-overflow.svg"></a>
@@ -61,24 +62,50 @@ Find me online:
 
 **Frameworks, tools, other snappy stuff**
 
-<div><img height="36" width="36" src="https://github.com/vanntile/vanntile/blob/master/assets/icons/angular.svg">
+<div>
+<img height="36" width="36" src="https://github.com/vanntile/vanntile/blob/master/assets/icons/next.svg">
 <img height="36" width="36" src="https://github.com/vanntile/vanntile/blob/master/assets/icons/react.svg">
+<img height="36" width="36" src="https://github.com/vanntile/vanntile/blob/master/assets/icons/astro.svg">
+<img height="36" width="36" src="https://github.com/vanntile/vanntile/blob/master/assets/icons/angular.svg">
+<img height="36" width="36" src="https://github.com/vanntile/vanntile/blob/master/assets/icons/vue.svg">
+<img height="36" width="36" src="https://github.com/vanntile/vanntile/blob/master/assets/icons/tailwindcss.svg">
+</div>
+<br/>
+<div>
+<img height="36" width="36" src="https://github.com/vanntile/vanntile/blob/master/assets/icons/deno.svg">
 <img height="36" width="36" src="https://github.com/vanntile/vanntile/blob/master/assets/icons/nodejs.svg">
+<img height="36" width="36" src="https://github.com/vanntile/vanntile/blob/master/assets/icons/fastapi.svg">
 <img height="36" width="36" src="https://github.com/vanntile/vanntile/blob/master/assets/icons/docker.svg">
 <img height="36" width="36" src="https://github.com/vanntile/vanntile/blob/master/assets/icons/heroku.svg">
+</div>
+<br/>
+<div>
 <img height="36" width="36" src="https://github.com/vanntile/vanntile/blob/master/assets/icons/git.svg">
 <img height="36" width="36" src="https://github.com/vanntile/vanntile/blob/master/assets/icons/github.svg">
-<img height="36" width="36" src="https://github.com/vanntile/vanntile/blob/master/assets/icons/gitlab.svg"></div>
-
+<img height="36" width="36" src="https://github.com/vanntile/vanntile/blob/master/assets/icons/gitlab.svg">
+</div>
 <br/>
-
-<div><img height="36" width="36" src="https://github.com/vanntile/vanntile/blob/master/assets/icons/linux-brands.svg">
+<div>
+<img height="36" width="36" src="https://github.com/vanntile/vanntile/blob/master/assets/icons/linux-brands.svg">
 <img height="36" width="36" src="https://github.com/vanntile/vanntile/blob/master/assets/icons/vscode.svg">
 <img height="36" width="36" src="https://github.com/vanntile/vanntile/blob/master/assets/icons/prettier.svg">
 <img height="36" width="36" src="https://github.com/vanntile/vanntile/blob/master/assets/icons/eslint.svg">
 <img height="36" width="36" src="https://github.com/vanntile/vanntile/blob/master/assets/icons/jupyter.svg">
 <img height="36" width="36" src="https://github.com/vanntile/vanntile/blob/master/assets/icons/http.svg">
-<img height="36" width="36" src="https://github.com/vanntile/vanntile/blob/master/assets/icons/markdown.svg">
+</div>
+<br/>
+<div>
+<img height="36" width="36" src="https://github.com/vanntile/vanntile/blob/master/assets/icons/cypress.svg">
+<img height="36" width="36" src="https://github.com/vanntile/vanntile/blob/master/assets/icons/jest.svg">
+</div>
+<br/>
+<div>
+<img height="36" width="36" src="https://github.com/vanntile/vanntile/blob/master/assets/icons/yaml.svg">
+<img height="36" width="36" src="https://github.com/vanntile/vanntile/blob/master/assets/icons/html.svg">
 <img height="36" width="36" src="https://github.com/vanntile/vanntile/blob/master/assets/icons/json.svg">
-<img height="36" width="36" src="https://github.com/vanntile/vanntile/blob/master/assets/icons/svg.svg"></div>
+<img height="36" width="36" src="https://github.com/vanntile/vanntile/blob/master/assets/icons/markdown.svg">
+<img height="36" width="36" src="https://github.com/vanntile/vanntile/blob/master/assets/icons/mdx.svg">
+<img height="36" width="36" src="https://github.com/vanntile/vanntile/blob/master/assets/icons/svg.svg">
+<img height="36" width="36" src="https://github.com/vanntile/vanntile/blob/master/assets/icons/css.svg">
+</div>
 
