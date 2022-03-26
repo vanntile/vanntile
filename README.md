@@ -9,25 +9,30 @@ const vanntile = {
     handle: "@vanntile",
     tagline: "developer by choice & designer for fun",
     languages: {
-        programming: ["JavaScript (ES2019)", "TypeScript ⌨️", "Python 3 🐍", "C/C++", "Haskell"],
-        markup: ["HTML 5 🏠", "Markdown ⬇️", "JSON", "YAML"],
+        programming: ["JavaScript (ES2021)", "TypeScript ⌨️", "Python 3 🐍", "C/C++", "Haskell"],
+        markup: ["JSON", "YAML", "HTML 5 5️", "Markdown ⬇️", "MDX ⬇️🇽"],
         styling: ["CSS 3 💅"]
     },
-    paradigm: "functional programming ➡️",
-    frameworks: ["Angular 🛡️", "React ⚛️", "express", "Django", "Flask ⚗️", "GTK+ (gtkmm)"],
+    paradigm: "Functional programming 🟦🐦",
+    frameworks: {
+        frontend: ["NextJS 🇳", "React ⚛️", "Astro 🚀", "Angular 🛡️", "Vue 🇻"],
+        styling: "Tailwind CSS 🍃",
+        backend: ["FastAPI ⚡", "express", "Django", "Flask ⚗️"],
+        other: ["GTK+ (gtkmm)"]
+    },
     tooling: {
-        essentials: ["Node.js 🐢🚀", "npm 📦", "Docker 🐳"],
+        essentials: ["Deno 🦕", "Node.js 🟩", "npm 📦", "Docker 🐳"],
         editors: ["VSCodium", "vim"],
         linters: ["Prettier", "ESLint", "clang-format"],
-        graphics: ["Inkscape", "Figma", "GIMP"]
+        graphics: ["Inkscape", "Figma", "GIMP"],
+        dotfiles: true
     },
     versioning: ["git 🍴", "GitHub 🐙", "GitLab 🦊"],
     system: {
         family: "Linux 🐧",
-        operatingSystem: "Ubuntu"
+        operatingSystem: "Pop!_OS"
     },
-    darkTheme: true,
-    passions: ["reading", "jojo", "all things JavaScript"]
+    darkTheme: true
 }
 ```
 
