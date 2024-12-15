@@ -65,6 +65,8 @@ Find me online:
     <img height="36" width="64" src="assets/icons/python.svg">
     <img height="36" width="64" src="assets/icons/javascript.svg">
     <img height="36" width="64" src="assets/icons/typescript.svg">
+    <img height="36" width="64" src="assets/icons/html.svg">
+    <img height="36" width="64" src="assets/icons/css.svg">
     <img height="36" width="64" src="assets/icons/cpp.svg">
     <img height="36" width="64" src="assets/icons/haskell.svg">
 </div>
